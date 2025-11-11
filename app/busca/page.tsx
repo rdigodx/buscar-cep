@@ -69,7 +69,7 @@ export default function Busca() {
           </Grid>
 
           {/* Botão de busca */}
-          <Grid size={{ xs: 12 }} width="100%">
+          <Grid size={{ xs: 12, sm: 4 }} width="100%">
             <Button
               fullWidth
               variant="contained"
