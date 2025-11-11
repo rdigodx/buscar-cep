@@ -1,8 +1,8 @@
 "use client";
 
 import { Grid, Button } from "@mui/material";
-
 import React from "react";
+
 export default function Home() {
   const animais = [
     { nome: "cachorro", cor: "rgba(146, 214, 29, 1)" },
